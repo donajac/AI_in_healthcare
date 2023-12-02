@@ -12,6 +12,7 @@ vital for disease detection. Manual detection of these conditions by a radiologi
 nodule, Fibrosis, Consolidation, Hernia, Edema, Emphysema.
 
 2.Detection of tumors from MRI using U-Net
+
 Unlike X-rays and CT scans, Magnetic resonance imaging do not use radiation and therefore is considered a noninvasive procedure. Detecting tumors manually by a radiologist is tedious and error prone. Here we introduce a
 multi-class segmentation model that is dependable and aids in identifying 3
 different abnormalities in each image : edema, enhancing and non enhancing tumours
